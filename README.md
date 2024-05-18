@@ -1,4 +1,5 @@
 ### chat开源项目
+快速预览地址- [Aurora.ai](https://jialeopen.love/chat/#/)
 ### 支持的AI模型
 支持目前所有主流的AI模型，所有模型均支持上传文件
 支持所有GPTs
