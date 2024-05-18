@@ -24,3 +24,7 @@
 ![image](https://github.com/L71151/uniapp-ChatGPT/assets/165195661/21d75150-563a-487e-ba5e-fe4bf8390d27)
 ![image](https://github.com/L71151/uniapp-ChatGPT/assets/165195661/153acc05-fd58-4e0d-bb77-d586a7dfb027)
 ![image](https://github.com/L71151/uniapp-ChatGPT/assets/165195661/972b375e-9ddf-4ae8-9d84-5f33f5cc8f54)
+
+### 小程序
+![image](https://github.com/L71151/uniapp-ChatGPT/assets/165195661/d337cd70-b89a-4d76-b951-fa41552c9b00)
+
